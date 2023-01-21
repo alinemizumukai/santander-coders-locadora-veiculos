@@ -1,3 +1,5 @@
+package Entidades;
+
 import Interfaces.Cliente;
 
 public class PessoaJuridica implements Cliente {

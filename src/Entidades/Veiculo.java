@@ -1,3 +1,5 @@
+package Entidades;
+
 import Enums.TipoVeiculo;
 
 public class Veiculo {

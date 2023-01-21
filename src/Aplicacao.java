@@ -1,3 +1,7 @@
+import Entidades.Aluguel;
+import Entidades.PessoaFisica;
+import Entidades.PessoaJuridica;
+import Entidades.Veiculo;
 import Enums.TipoVeiculo;
 import Interfaces.Cliente;
 
